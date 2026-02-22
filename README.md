@@ -1,9 +1,7 @@
 # Lakshya Dubey
 
 GenAI Engineer | LLM Systems | Computer Vision | Distributed AI  
-B.Tech Computer Engineering, NMIMS Indore  
-
-📍 Indore, India  
+  
 🔗 LinkedIn: https://linkedin.com/in/lakshyadubey  
 📧 lakshya.dubey04@gmail.com  
 
