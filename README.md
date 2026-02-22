@@ -1,5 +1,129 @@
-# 💫 About Me:
-Profession: B.Tech Computer Engineering Student | Aspiring AI/ML Developer<br><br>Top Skills & Tech Stack: Python, C/C++, Java, Deep Learning (TensorFlow, OpenCV), Natural Language Processing, Data Structures & Algorithms, SQL.<br><br>Featured Projects:<br><br>Deepfake Detection Using Reverse Engineering (Python, OpenCV, Deep Learning)<br>Doppelganger: AI-Powered Virtual Persona (NLP, TensorFlow, OpenCV)<br>AI-powered Automatic Ticket Classification System (New addition!)<br>Achievements & Fun Facts:<br><br>Google Cloud Computing Certification<br>Semi-Finalist in Smart India Hackathon
+# Lakshya Dubey
+
+GenAI Engineer | LLM Systems | Computer Vision | Distributed AI  
+B.Tech Computer Engineering, NMIMS Indore  
+
+📍 Indore, India  
+🔗 LinkedIn: https://linkedin.com/in/lakshyadubey  
+📧 lakshya.dubey04@gmail.com  
+
+---
+
+## About Me
+
+I am an AI-focused Computer Engineering student building production-oriented systems in:
+
+• Large Language Model (LLM) applications  
+• Retrieval-Augmented Generation (RAG) pipelines  
+• Computer Vision & Deep Learning  
+• Distributed AI systems  
+
+My work centers on integrating LLMs with vector databases, structured retrieval, and scalable backend architectures to build practical AI systems rather than isolated models.
+
+---
+
+## Core Focus Areas
+
+### Generative AI Systems
+- LLM-based Question Answering pipelines  
+- Vector embeddings & semantic retrieval  
+- Prompt engineering & model orchestration  
+- LLaMA-3 (GROQ), Pinecone, LangChain  
+
+### Machine Learning & Deep Learning
+- Transfer Learning (Xception, YOLOv8)  
+- CNN-based image forensics  
+- Classical ML (SVM, classification pipelines)  
+- Feature engineering & evaluation metrics  
+
+### AI Infrastructure & Deployment
+- FastAPI / Flask model serving  
+- RESTful AI APIs  
+- Cloud integration (Google Cloud, AWS)  
+- Distributed similarity systems  
+
+---
+
+## Highlight Projects
+
+### 1️⃣ Automatic Ticket Classification & Document QA System  
+LLM-powered support automation system integrating:
+- Pinecone vector database  
+- GROQ LLaMA-3 inference  
+- SVM-based intelligent routing  
+- Semantic retrieval + generative response  
+
+Focus: End-to-end GenAI workflow with structured routing logic.
+
+---
+
+### 2️⃣ Distributed AST-Based Plagiarism Detection System  
+Scalable plagiarism detection system using:
+- Abstract Syntax Tree (AST) similarity  
+- Google Drive API integration  
+- Distributed comparison logic  
+
+Focus: Structural code intelligence over naive text matching.
+
+---
+
+### 3️⃣ Deepfake Detection via Reverse Engineering  
+Transfer-learning-based detection pipeline using:
+- Xception architecture  
+- OpenCV-based feature extraction  
+- Metadata & illumination inconsistency analysis  
+
+Focus: AI-generated media forensic detection.
+
+---
+
+### 4️⃣ OneClouds — Privacy-Preserving Multi-Cloud Platform  
+Capstone project integrating:
+- Multi-cloud APIs (Google Drive, Dropbox, OneDrive)  
+- OAuth2 authentication  
+- Encrypted metadata-driven architecture  
+
+Focus: Secure cloud abstraction layer with system-level design.
+
+---
+
+## Technical Stack
+
+**LLMs & RAG**  
+LangChain · GROQ LLaMA-3 · Pinecone · SentenceTransformers  
+
+**Deep Learning**  
+TensorFlow · OpenCV · Transfer Learning · CUDA  
+
+**Backend & APIs**  
+FastAPI · Flask · REST APIs  
+
+**Databases & Cloud**  
+MongoDB · MySQL · Google Cloud · AWS  
+
+**Core Foundations**  
+Data Structures & Algorithms · Database Systems · System Design  
+
+---
+
+## Research & Publications
+
+Distributed Web-Based Plagiarism Checker Using AST and Google Drive Integration  
+Published in Shreeshodhamantra International Multidisciplinary Academic Research Journal  
+
+---
+
+## Current Direction
+
+I am currently focusing on:
+
+- Graph-based RAG architectures  
+- Hybrid retrieval (vector + structured traversal)  
+- LLM system evaluation and hallucination mitigation  
+- Scalable AI deployment patterns  
+
+---
+
 
 
 ## 🌐 Socials:
